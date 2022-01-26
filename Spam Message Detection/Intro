@@ -1,0 +1,3 @@
+So In This Project We Will See How To make A Spam Message Detection Ml Model Using SVM(Support Vector Machine).
+The Data Was taken From The kaggle: https://www.kaggle.com/uciml/sms-spam-collection-dataset
+Data Was Clean So Using Feature Extraction We Have Created This Model For Better Accuracy.
